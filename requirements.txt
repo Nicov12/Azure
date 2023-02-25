@@ -1,0 +1,7 @@
+Flask==2.2.2
+Flask_Cors==3.0.10
+gensim==4.3.0
+pandas==1.5.2
+spacy==3.4.4
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.4.0/es_core_news_sm-3.4.0.tar.gz
+scikit-learn==1.2.0
